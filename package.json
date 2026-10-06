@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@neon/config": "^1.8.3",
+    "@neon/env": "^1.5.0",
+    "pa11y-ci": "^3.1.0"
+  }
+}
